@@ -66,6 +66,8 @@ Here's the output:
 
 I included some posts for reference.
 
+https://github.com/noey2020/How-to-Generate-Triangular-Wave-STM32-DAC
+
 https://github.com/noey2020/How-to-Illustrate-Multiple-Exceptions-
 
 https://github.com/noey2020/How-to-Blink-LED-using-Standard-Peripheral-Library
